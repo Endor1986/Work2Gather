@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\fileutils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\fileutils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\public\\js\\frontend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\public\\js\\frontend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\services\\taskservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\services\\taskservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\models\\team.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\models\\team.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\models\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\models\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\models\\task.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\models\\task.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\models\\project.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\models\\project.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\controllers\\usercontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\controllers\\usercontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\controllers\\taskcontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\controllers\\taskcontroller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|c:\\users\\phil\\desktop\\visual studio c# projekte\\js work2gather\\work2gather\\work2gather\\.vscode\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5070153E-B2D2-4542-89BC-A49D65C3DD6F}|Work2Gather\\Work2Gather.esproj|solutionrelative:work2gather\\.vscode\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\.gitignore",
+              "RelativeDocumentMoniker": "Work2Gather\\.gitignore",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\.gitignore*",
+              "RelativeToolTip": "Work2Gather\\.gitignore*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T16:10:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\controllers\\UserController.js",
+              "RelativeDocumentMoniker": "Work2Gather\\controllers\\UserController.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\controllers\\UserController.js",
+              "RelativeToolTip": "Work2Gather\\controllers\\UserController.js",
+              "ViewState": "AgIAABoAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T01:53:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\eslint.config.js",
+              "RelativeDocumentMoniker": "Work2Gather\\eslint.config.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\eslint.config.js",
+              "RelativeToolTip": "Work2Gather\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T01:49:47.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "Work2Gather\\.vscode\\launch.json",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\.vscode\\launch.json",
+              "RelativeToolTip": "Work2Gather\\.vscode\\launch.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T23:28:02.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fileUtils.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\fileUtils.js",
+              "RelativeDocumentMoniker": "Work2Gather\\fileUtils.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\fileUtils.js",
+              "RelativeToolTip": "Work2Gather\\fileUtils.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T23:11:20.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\data.json",
+              "RelativeDocumentMoniker": "Work2Gather\\data.json",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\data.json",
+              "RelativeToolTip": "Work2Gather\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T23:09:48.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frontend.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\public\\js\\frontend.js",
+              "RelativeDocumentMoniker": "Work2Gather\\public\\js\\frontend.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\public\\js\\frontend.js",
+              "RelativeToolTip": "Work2Gather\\public\\js\\frontend.js",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAQwOoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T22:56:26.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\public\\index.html",
+              "RelativeDocumentMoniker": "Work2Gather\\public\\index.html",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\public\\index.html",
+              "RelativeToolTip": "Work2Gather\\public\\index.html",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T22:51:57.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\public\\css\\style.css",
+              "RelativeDocumentMoniker": "Work2Gather\\public\\css\\style.css",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\public\\css\\style.css",
+              "RelativeToolTip": "Work2Gather\\public\\css\\style.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-23T22:51:14.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\models\\User.js",
+              "RelativeDocumentMoniker": "Work2Gather\\models\\User.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\models\\User.js",
+              "RelativeToolTip": "Work2Gather\\models\\User.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T17:29:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\models\\Team.js",
+              "RelativeDocumentMoniker": "Work2Gather\\models\\Team.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\models\\Team.js",
+              "RelativeToolTip": "Work2Gather\\models\\Team.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T17:29:16.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\models\\Project.js",
+              "RelativeDocumentMoniker": "Work2Gather\\models\\Project.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\models\\Project.js",
+              "RelativeToolTip": "Work2Gather\\models\\Project.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T17:28:39.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "settings.json",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\.vscode\\settings.json",
+              "RelativeDocumentMoniker": "Work2Gather\\.vscode\\settings.json",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\.vscode\\settings.json",
+              "RelativeToolTip": "Work2Gather\\.vscode\\settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T17:28:31.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskService.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\services\\TaskService.js",
+              "RelativeDocumentMoniker": "Work2Gather\\services\\TaskService.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\services\\TaskService.js",
+              "RelativeToolTip": "Work2Gather\\services\\TaskService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T17:04:58.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\models\\Task.js",
+              "RelativeDocumentMoniker": "Work2Gather\\models\\Task.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\models\\Task.js",
+              "RelativeToolTip": "Work2Gather\\models\\Task.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T17:04:50.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskController.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\controllers\\TaskController.js",
+              "RelativeDocumentMoniker": "Work2Gather\\controllers\\TaskController.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\controllers\\TaskController.js",
+              "RelativeToolTip": "Work2Gather\\controllers\\TaskController.js",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv2sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T17:04:39.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\app.js",
+              "RelativeDocumentMoniker": "Work2Gather\\app.js",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\app.js",
+              "RelativeToolTip": "Work2Gather\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-23T17:04:30.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\package.json",
+              "RelativeDocumentMoniker": "Work2Gather\\package.json",
+              "ToolTip": "C:\\Users\\Phil\\Desktop\\Visual Studio C# Projekte\\JS Work2Gather\\Work2Gather\\Work2Gather\\package.json",
+              "RelativeToolTip": "Work2Gather\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T17:03:46.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

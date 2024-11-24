@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": "1732462926478",
+      "title": "Learn Java and Technologies",
+      "description": "Focus on understanding Java fundamentals and implementing technologies in a task management system.",
+      "status": "To Do",
+      "assignedTo": [
+        "1732462937127"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1732462937127",
+      "name": "Phillip Kley",
+      "email": "p.kley86@web.de",
+      "role": "Admin"
+    }
+  ]
+}

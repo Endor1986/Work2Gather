@@ -1,0 +1,65 @@
+<!-- public/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Work2Gather - Task Manager</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Work2Gather</h1>
+        <p>Your collaborative task and project management tool.</p>
+    </header>
+    <main>
+        <!-- Tasks Section -->
+        <section id="tasks-section">
+            <h2>Tasks</h2>
+            <form id="task-form">
+                <input type="text" id="task-title" placeholder="Task Title" required />
+                <input type="text" id="task-description" placeholder="Task Description" required />
+                <button type="submit">Add Task</button>
+            </form>
+            <ul id="task-list"></ul>
+        </section>
+
+        <!-- Users Section -->
+        <section id="users-section">
+            <h2>Employees</h2>
+            <form id="user-form">
+                <input type="text" id="user-name" placeholder="Employee Name" required />
+                <input type="email" id="user-email" placeholder="Employee Email" required />
+                <select id="user-role">
+                    <option value="Member">Member</option>
+                    <option value="Admin">Admin</option>
+                </select>
+                <button type="submit">Add Employee</button>
+            </form>
+            <ul id="open-task-users-list"></ul>
+        </section>
+
+        <!-- Task Assignment Section -->
+        <section id="assign-section">
+            <h2>Assign Tasks to Employees</h2>
+            <form id="assign-form">
+                <label for="assign-task">Select Task:</label>
+                <select id="assign-task" required>
+                    <option value="" disabled selected>Select Task</option>
+                </select>
+
+                <label for="assign-user">Select Employee:</label>
+                <select id="assign-user" required>
+                    <option value="" disabled selected>Select Employee</option>
+                </select>
+
+                <button type="submit">Assign</button>
+            </form>
+
+            <h3>Assigned Tasks Overview</h3>
+            <ul id="combined-list"></ul>
+        </section>
+    </main>
+    <script src="/js/frontend.js"></script>
+</body>
+</html>
